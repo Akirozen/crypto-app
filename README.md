@@ -1,3 +1,19 @@
+# Description
+
+A cryptocurrency web-app created for educational purposes.
+
+Techonologies used: 
+
+-React,
+
+-Redux Toolkit,
+
+-React chartjs,
+
+-Ant Design (CSS library for React).
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
