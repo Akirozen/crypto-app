@@ -1,17 +1,14 @@
 # Description
 
 A cryptocurrency web-app created for educational purposes.
-
 Techonologies used: 
-
 -React,
-
--Redux Toolkit,
-
+-Redux Toolkit
 -React chartjs,
-
 -Ant Design (CSS library for React).
 
+## Demo version
+LINK HERE
 
 
 # Getting Started with Create React App
