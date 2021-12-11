@@ -8,7 +8,7 @@ Techonologies used:
 -Ant Design (CSS library for React).
 
 ## Demo version
-LINK HERE
+LINK + picture HERE
 
 
 # Getting Started with Create React App
